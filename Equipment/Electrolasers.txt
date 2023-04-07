@@ -1,0 +1,8 @@
+Electrolaser Mechanics
+Less Lethal Weapons: Electrolasers can be set to non-lethal settings at no cost to damage or hit bonus. However, if the target has been damaged by a lethal attack during this combat, the target must roll a physical effect save when reduced to 0 hit points by a non-lethal Electrolaser attack, failure resulting in death as normal.
+
+Overload: Electrolasers deal double damage to fully robotic enemies, such as expert systems. AI armatures are generally exempt from this effect as they are powered by their own internal core.
+
+Recharge: As a full action, Electrolasers can be used to recharge the electrical devices of allies. Recharging a Type B Power Cell requires expending a full magazine of Electrolaser ammunition, while two Type A Power Cells can be recharged for each Electrolaser ammunition and only takes one action for both.
+
+Ammunition: Electrolasers use Type B Power Cells as ammunition

@@ -1,0 +1,8 @@
+Maintenance and Repair
+See Maintenance and Repair on page 113 of the book. 
+Notable: It takes a full week to perform maintenance on a frigate hull and repairs must be made in a location with appropriate facilities. 
+
+The Tracks in the Roll-20 are as follows:
+The Maintenance Clock: Each tick on the maintenance clock represents 1 month in the 6 month maintenance cycle. Each time the clock is filled add 1 to the entropy clock. If you pay your ship's maintenance the clock gets reset to 0 ticks and the maintenance clock starts over. 
+
+The Entropy Clock: Each time you fail to pay maintenance for a cycle a tick is added to the entropy clock. Each tick on the Entropy Clock adds a -1 to ship hit and skill rolls until it is removed. Each tick can be removed by spending maintenance specifically for this purpose. When the penalty reaches -4, there is a 10% chance each month that your ship entirely breaks down.

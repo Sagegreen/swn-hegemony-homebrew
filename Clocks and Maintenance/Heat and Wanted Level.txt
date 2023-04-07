@@ -1,0 +1,16 @@
+Heat and Wanted Level
+The Mandate is always watching and evidence is always left behind. After a mission or conflict your crew will receive heat according to the nature of the operation.
+0 heat: Smooth & quiet; low exposure.
+2 heat: Contained; standard exposure.
+4 heat: Loud & chaotic; high exposure.
+6 heat: Wild; devastating exposure.
+Add +1 heat for a well connected or high-profile target
+Add +1 heat if killing was involved or the destruction of ships of fighter class or frigate class.
+Add +1 heat if the job took place in Mandate turf
+Add +2 heat if the job involved the destruction or severe damage to a space-station or a ship of Cruiser or Capital class
+
+Heat is added to the heat tracker after each job.
+
+Every time the heat tracker is filled, add 1 to your wanted level and reset the heat tracker. 
+
+The Wanted Level represents when reports of your crimes get back to a Mandate power center such as New Earth, or the Admiral of the Expiditionary Fleet. It represents when a higher authority authorizes greater force and priority in apprehending you. Each wanted level will add a +1 bonus to hit and skill rolls made by Mandate minions during missions as they are offered better equipment and intel. Each wanted level will also increase the threat of Mandate responses and entanglements in between missions.
