@@ -1,0 +1,26 @@
+Language List
+Mandate:
+     Chinese, Spanish, English, Arabic, Hindi, Bengali
+     Signed Languages:
+        LSF: The most common signed language in the Mandate 
+        Mandate Sign Language (MSLAN): Preserved sign language of the old Mandate
+
+The Mandate also supports training in the following languages: 
+     Portuguese, Russian, Japanese, German, Javanese, Lahnda, Telugu, Vietnamese, Marathi, Korean, Tamil, Italian, Urdu
+
+Cluster:
+    Major: Hindi, Bengali, Chinese 
+    Signed:
+          LSF, PR
+    Minor: Marathi, Arabic, Vietnamese, English
+
+Chorus: 
+     Spanish
+
+The Chaos:
+     Chinese, Japanese, Russian, Spanish, Portuguese
+
+Trade Languages
+-Tuogani is a common trade language in the central cluster, closest roots in Bengali/Hindi
+-Ephral is a trade language common in the north west, closest roots in Spanish
+-BANZSL: Signed language that is very common throughout the cluster.

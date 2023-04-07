@@ -1,0 +1,23 @@
+LANGUAGES
+
+Many languages are spoken throughout the sector and there are many local variations and dialects. This system is designed to showcase that diversity in a way that creates interesting situations and challenges. 
+
+Dialect
+Record Languages with a specific region: Mandate or Cluster
+This represents the dialect you speak. 
+Ex: Spanish(Mandate) or Bengali(Cluster)
+Trade Languages do not have a dialect.
+
+Communication Under Fire:
+For the most part, you can communicate simple concepts to others even if they don't share your language or dialect so long as the situation isn't urgent or time-sensitive. 
+In a tense situation, you may have to make a test to be able to communicate quickly and effectively when a language barrier is present. 
+To communicate you may make an Int(Know) or Cha(Connect) check. 
+DC 6 - Same language root, different dialect
+DC 10 - Different languages entirely
+DC 12 - alien language
++2 if you are trying to communicate quickly
+
+Trade Languages
+These are relatively simple languages made to communicate the intricacies of trade between systems. 
+They have no dialect but are difficult to communicate complex concepts not related to trade. 
+In a tense or urgent situation, communicating in a trade language is DC 6 and does not suffer from  the quick communication penalty. (Anyone involved in the communication must understand the trade language) 
