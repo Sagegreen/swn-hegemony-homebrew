@@ -1,0 +1,3 @@
+Your character gets 1 language with their homeworld's dialect, and 1 Trade Language to start
+If your character has had education you may pick up another language of your choice with any planet's dialect
+If your character has an Int modifier greater than 0, you may roll an Int(Know) check at dc7, if you pass you may select another language of your choice with any planet's dialect.
